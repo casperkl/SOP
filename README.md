@@ -1,11 +1,7 @@
 ## Ontwikkelstraat:
 [![Build Status](https://travis-ci.org/casperkl/SOP.svg?branch=master)](https://travis-ci.org/casperkl/SOP)
 [![codecov.io](https://codecov.io/github/casperkl/SOP/coverage.svg?branch=master)](https://codecov.io/github/casperkl/SOP?branch=master)
-<a href="https://scan.coverity.com/projects/casperkl-sop">
-  <img alt="Coverity Scan Build Status"
-       src="https://img.shields.io/coverity/scan/8132.svg"/>
-</a>
-
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/9ae0c2830ba44678b25ef19529ec962e)](https://www.codacy.com/app/casperkleintjes1/SOP)
 
 
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
