@@ -1,7 +1,6 @@
 ## Ontwikkelstraat:
 [![Build Status](https://travis-ci.org/casperkl/SOP.svg?branch=master)](https://travis-ci.org/casperkl/SOP)
-[![Codecov](https://img.shields.io/codecov/c/github/codecov/example-python.svg)](https://codecov.io/github/casperkl/SOP)
-
+[![codecov.io](https://codecov.io/github/casperkl/SOP/coverage.svg?branch=master)](https://codecov.io/github/casperkl/SOP?branch=master)
 
 
 
