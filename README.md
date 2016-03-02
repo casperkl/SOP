@@ -1,5 +1,5 @@
 ## Ontwikkelstraat:
-![alt tag](https://travis-ci.org/casperkl/SOP.svg?branch=master)
+[![Build Status](https://travis-ci.org/casperkl/SOP.svg?branch=master)](https://travis-ci.org/casperkl/SOP)
 
 
 
