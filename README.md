@@ -1,6 +1,10 @@
 ## Ontwikkelstraat:
 [![Build Status](https://travis-ci.org/casperkl/SOP.svg?branch=master)](https://travis-ci.org/casperkl/SOP)
 [![codecov.io](https://codecov.io/github/casperkl/SOP/coverage.svg?branch=master)](https://codecov.io/github/casperkl/SOP?branch=master)
+<a href="https://scan.coverity.com/projects/casperkl-sop">
+  <img alt="Coverity Scan Build Status"
+       src="https://img.shields.io/coverity/scan/8132.svg"/>
+</a>
 
 
 
