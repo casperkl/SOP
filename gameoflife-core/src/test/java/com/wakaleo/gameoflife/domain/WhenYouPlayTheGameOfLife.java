@@ -44,7 +44,6 @@ public class WhenYouPlayTheGameOfLife {
         theUniverse.createNextGeneration();
 
         String nextGrid = theUniverse.getGrid();
-        nextGrid = null;
         assertThat(nextGrid, is(expectedNextGrid));
     }
 
