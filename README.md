@@ -1,4 +1,7 @@
 ## Ontwikkelstraat:
+[![Build Status](http://128.127.40.4:8080/buildStatus/icon?job=SOP)](http://128.127.40.4:8080/job/SOP/)
+
+## Oude Ontwikkelstraat:
 [![Build Status](https://travis-ci.org/casperkl/SOP.svg?branch=master)](https://travis-ci.org/casperkl/SOP)
 [![codecov.io](https://codecov.io/github/casperkl/SOP/coverage.svg?branch=master)](https://codecov.io/github/casperkl/SOP?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/9ae0c2830ba44678b25ef19529ec962e)](https://www.codacy.com/app/casperkleintjes1/SOP)
