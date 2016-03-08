@@ -1,5 +1,5 @@
 ## Ontwikkelstraat:
-[![Build Status](http://128.127.40.4:8080/buildStatus/icon?job=SOP)](http://128.127.40.4:8080/job/SOP/)
+<a href='http://128.127.40.4:8080/job/SOP/'><img src='http://128.127.40.4:8080/buildStatus/icon?job=SOP'></a>
 
 ## Oude Ontwikkelstraat:
 [![Build Status](https://travis-ci.org/casperkl/SOP.svg?branch=master)](https://travis-ci.org/casperkl/SOP)
